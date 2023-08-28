@@ -1,0 +1,1 @@
+# maxcrafted-addon
